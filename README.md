@@ -1,30 +1,32 @@
-### Hi there 👋
+<h1 align=center>Hi there 👋 Welcome to my Github page!</h1>
 
-
-Welcome to my Github page!
-
-<p>
+<p align=center>
   <img src='https://img.shields.io/badge/Front%20End-React-%235CCFEE' />
   <img src='https://img.shields.io/badge/Back%20End-NodeJS-%2383BA00' />
 </p>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cmassarino.dev@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cmassarino/)
-[![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FC_Massarino)](https://twitter.com/C_Massarino)
-<br><br>
+<p align=center>
+  <a href="mailto:cmassarino.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/cmassarino/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/C_Massarino"><img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FC_Massarino"/></a>
+</p>
 
-<h3>🛠 Tech Stack</h3>
+
+<p align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5pamm3r&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true"/></p>
+<p align=center><img src="https://github-readme-stats.vercel.app/api?username=5pamm3r&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true"/></p>
 
 
-<p>
+<h2 align=center>🛠 Tech Stack</h2>
+
+<p align=center>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<br />
+<br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<br />
+<br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
