@@ -10,10 +10,13 @@
   <a href="https://www.linkedin.com/in/cmassarino/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/C_Massarino"><img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FC_Massarino"/></a>
 </p>
+<br />
 
 
-<p align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5pamm3r&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true"/></p>
-<p align=center><img src="https://github-readme-stats.vercel.app/api?username=5pamm3r&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true"/></p>
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5pamm3r&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true"/>
+  <img align=right src="https://github-readme-stats.vercel.app/api?username=5pamm3r&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true"/>
+</p>
 
 
 <h2 align=center>🛠 Tech Stack</h2>
