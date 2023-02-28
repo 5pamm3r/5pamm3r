@@ -1,4 +1,4 @@
-<h1 align=center>Hi there 👋 Welcome to my Github page!</h1>
+<h1 align=center>Hi there 👋 Welcome to my GitHub page!</h1>
 
 <p align=center>
   <img src='https://img.shields.io/badge/Front%20End-React-%235CCFEE' />
