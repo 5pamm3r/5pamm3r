@@ -14,8 +14,8 @@
 
 
 <p align=center>
-  <img src="https://github-readme-stats-5pamm3r.vercel.app/api?username=5pamm3r&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true" />
   <img src="https://github-readme-stats-5pamm3r.vercel.app/api/top-langs/?username=5pamm3r&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true" />
+  <img align='right' src="https://github-readme-stats-5pamm3r.vercel.app/api?username=5pamm3r&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true" />
 </p>
 
 
@@ -26,7 +26,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </p>
 <!--
